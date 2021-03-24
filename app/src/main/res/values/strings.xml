@@ -3,4 +3,5 @@
     <string name="car_service_center">Car Service Center</string>
     <string name="mechanic">Mechanic</string>
     <string name="car_plate_search">Car Plate Search</string>
+    <string name="todo">TODO</string>
 </resources>
